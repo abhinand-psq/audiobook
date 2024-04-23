@@ -1,0 +1,11 @@
+.sample{
+position: absolute;
+top: 10px;
+background-color: white;
+z-index: 2;
+right: 400px;
+min-width: 100px;
+width: 500px;
+
+max-width: 500px;
+}
